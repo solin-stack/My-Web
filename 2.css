@@ -89,6 +89,7 @@ position: relative;
     padding: 15px 32px;
     font-size: 14px;
     margin: 10px 2px ;
+    border-radius:5px;
 }
 footer{
     background: #66BFBF;
